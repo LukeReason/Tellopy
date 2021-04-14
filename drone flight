@@ -28,7 +28,6 @@ tello.move_forward(92)
 tello.rotate_counter_clockwise(90)
 
 # Steps 10-11
-tello.move_up(61)
 tello.move_forward(183)
 
 tello.land()
